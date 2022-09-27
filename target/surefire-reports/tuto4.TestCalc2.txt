@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: tuto4.TestCalc2
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0 s <<< FAILURE! - in tuto4.TestCalc2
+CalcTest  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <3> but was: <-1>
+	at tuto4.TestCalc2.CalcTest(TestCalc2.java:15)
+
